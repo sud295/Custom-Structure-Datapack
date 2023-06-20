@@ -1,0 +1,15 @@
+{
+    "name": "datapack_files:12",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "location": "datapack_files:new_structs/12_1",
+                "processors": "minecraft:empty",
+                    "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        }
+    ]
+}

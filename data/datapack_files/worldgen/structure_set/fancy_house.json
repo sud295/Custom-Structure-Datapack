@@ -1,0 +1,14 @@
+{
+    "structures": [
+      {
+        "structure": "datapack_files:house",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "salt": 121541467,
+      "spacing": 1,
+      "separation": 0,
+      "type": "minecraft:random_spread"
+    }
+  }
